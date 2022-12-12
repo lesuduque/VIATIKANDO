@@ -1,3 +1,3 @@
 # VIATIKANDO
 
-Proyecto académico que simula un software que almacena viaticos de una empresa
+Proyecto académico que simula un software para el almacenamiento de viaticos en una empresa
